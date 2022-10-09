@@ -1,0 +1,166 @@
+body{
+    font-family: 'Inconsolata', monospace;
+}
+
+img{
+width: 60px;
+height:60px;
+align-items: center;
+justify-content: center;
+margin-top:5px ;
+
+}
+.header{
+    display: flex;
+    border-bottom: #FFBAE6 solid 2px;
+    align-items: center;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: #911664;
+}
+.nome{
+    color: #FFBAE6;
+    display: flex;
+    margin-left:30px;
+    align-content: center;
+}
+
+.nav{
+    display: flex;
+    padding-left: 200px;
+    align-content: center;
+}
+.nav h1{
+    color:#856a62;
+   margin-left: 50px;
+   font-size: 24px;
+}
+.homepage{
+    width: auto;
+    color: white;
+    padding: 0;
+    margin: 0px;
+}
+.page1{
+    padding: 5px;
+    background-color: #FFBAE6;
+    border-radius: 10px;
+    margin:24px;
+}
+.page2{
+    background-color: #a58d84;
+    border-radius: 10px;
+    padding: 5px;
+    margin:24px;
+}
+
+form{
+    width: 100%;
+    height: 80%;
+}
+.relato_page{
+    padding-top: 15px;
+    padding-left: 10px;
+    margin-bottom: 30px;
+}
+
+.button_relato{
+    margin-top: 24px;
+    
+
+}
+.relato_text{
+    width: 20%;
+    height: auto;
+}
+.porque_doar{
+    color: black;
+    background-color: #FFBAE6;
+    border-radius: 10px;
+    padding-bottom:10px;
+    height: auto;
+    padding: 24px;
+    margin:24px;
+}
+.porque_doar h1{
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 24px;
+}
+.porque_doar h3{
+    color: black;
+    font-size: 20px;
+    padding-top: 25px;
+    
+}
+.onde_doar{
+    color: black;
+    background-color: #a58d84;
+    border-radius: 10px;
+    padding-bottom:10px;
+    font-size: 24px; 
+    padding: 24px;
+    margin:24px;
+   
+}
+.onde_doar h1{
+    justify-content: center;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 24px;
+    height: auto;
+    margin:24px;
+}
+.onde_doar h3{
+    color: white;
+    font-size: 20px;
+}
+.lista{
+    font-size: 25px;
+}
+
+
+.tamo_juntas{
+    border: solid #FFBAE6;
+    margin-bottom:20px;
+    border-radius:10px;
+}
+    
+.fala_mulher{
+    border: solid #69b960;
+    margin-bottom:20px;
+    border-radius:10px;
+   }
+
+.Associação_fenix{
+    border: solid #FFBAE6;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+
+p{
+    text-align: center;
+}
+
+.tamo_juntas h2{
+    padding-left:8px;
+}
+.fala_mulher h2{
+    padding-left:8px;
+}
+
+.Associação_fenix h2{
+    padding-left:8px;
+}
+
+fieldset {
+    margin-top: 20px;
+    margin-bottom:20px;
+    border-color:#FFBAE6;
+}
+
